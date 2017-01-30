@@ -1,8 +1,12 @@
-     Lara Teagues
+ //Resume in html
+ <head>  
+    Lara Teagues
 7830 S Paulina
 Chicago, IL
 312-451-6057
 lteagues@yahoo.com
+<head>
+<body
 Education/Training:
 Illinois Institute of Technology								Chicago, Illinois              
 Information Technology & Management 					Expected Completion 12/2018 
@@ -18,8 +22,8 @@ Work Experience:
 MSDS Online/GES				   Chicago, Illinois
 Data Entry Representative				      5/2016-8/2016
 * Researched company websites for SDS 
-* Entered SDS into company’s main database
-* Corresponded with manufacturers via telephone, email or company’s website
+* Entered SDS into companyâ€™s main database
+* Corresponded with manufacturers via telephone, email or companyâ€™s website
 
 Enova International/Randstad                                                                                               Chicago, Illinois               
 Inbound Customer Service Representative				      6/2015-9/2015
@@ -49,4 +53,5 @@ Summer Intern                                                                   
 Skills: 
 * Hardworking        
 * Excellent Communication
-Proficient use in Microsoft Office             
+Proficient use in Microsoft Office  
+<body>
