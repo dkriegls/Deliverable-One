@@ -1,4 +1,7 @@
+<head>
 Favorite Things
+<head>
+<body>
 List of favorite books that are movies
 * Hidden Figures
 * Twilight Saga
@@ -8,7 +11,7 @@ List of favorite books that are movies
 * Great Gatsby
 Favorite TV shows
 * Bones
-* Grey’s Anatomy 
+* Greyâ€™s Anatomy 
 * Once upon a time
 Favorite Movies
 * Armageddon
@@ -21,4 +24,4 @@ Favorite Foods
 * Lasagna
 * Stuffed Tilapia
 * Pot Roast
-
+<body
